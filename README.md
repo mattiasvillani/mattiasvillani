@@ -1,7 +1,6 @@
 ### Welcome to my little GitHub corner
 
-I am a Professor of Statistics at [Stockholm University](https://www.su.se) and [Linköping University](https://liu.se).
-
+I am a Professor of Statistics at [Stockholm University](https://www.su.se) and [Linköping University](https://liu.se).\
 I teach and do research in Bayesian statistics, often with a focus on prediction and computational aspects.
 
 <!--
