@@ -1,8 +1,8 @@
-### Welcome to my little GitHub corner
+### Welcome to my GitHub
 
 I am a Professor of Statistics at [Stockholm University](https://www.su.se) and [Linköping University](https://liu.se).\
 I teach and do research in Bayesian statistics, often with a focus on prediction and computational aspects.\
-I like to keep all my teaching material, including sources files, open, so you will find repos for all my courses here (or at [STIMA@LiU](https://github.com/STIMALiU/).
+I like to keep all my teaching material, including sources files, open, so you will find repos for all my courses here (or at [STIMA@LiU](https://github.com/STIMALiU/)).
 
 <!--
 **mattiasvillani/mattiasvillani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
