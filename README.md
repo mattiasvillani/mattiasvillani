@@ -1,4 +1,4 @@
-![Brain](https://raw.githubusercontent.com/mattiasvillani/GreyBrain.jpg) 
+![Brain](https://github.com/mattiasvillani/mattiasvillani/raw/main/GreyBrain.jpg) 
 
 ### Welcome!
 
