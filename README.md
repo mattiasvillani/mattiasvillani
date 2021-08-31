@@ -1,4 +1,4 @@
-[![Matrix SVG](https://raw.githubusercontent.com/mattiasvillani/GreyBrain.jpg)]() 
+![Brain](https://raw.githubusercontent.com/mattiasvillani/GreyBrain.jpg) 
 
 ### Welcome!
 
