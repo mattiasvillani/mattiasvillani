@@ -1,4 +1,5 @@
-<img src="https://github.com/mattiasvillani/mattiasvillani/raw/main/GreyBrain.jpg" alt="brain image" width="200"/>
+<img src="https://github.com/mattiasvillani/mattiasvillani/raw/main/GreyBrain.jpg" alt="brain image">
+
 ### Welcome!
 
 I am a Professor of Statistics at [Stockholm University](https://www.su.se) and [Linköping University](https://liu.se).\
