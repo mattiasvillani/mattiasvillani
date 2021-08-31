@@ -1,3 +1,5 @@
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+
 ### Welcome!
 
 I am a Professor of Statistics at [Stockholm University](https://www.su.se) and [Linköping University](https://liu.se).\
