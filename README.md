@@ -3,7 +3,7 @@
 
 ### Welcome!
 
-I am a Professor of Statistics at [Stockholm University](https://www.su.se) and [Linköping University](https://liu.se).\
+I am Professor of Statistics at [Stockholm University](https://www.su.se) and [Linköping University](https://liu.se).\
 I teach and do research in Bayesian statistics, often with a focus on prediction and computational aspects.\
 I keep all my teaching material, including source files, open, and you will find repos for all my courses here (older courses at [STIMA@LiU](https://github.com/STIMALiU/)).\
 More info about my work on my [web pages](https://mattiasvillani.com).
