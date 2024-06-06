@@ -1,8 +1,6 @@
 
 <img src="https://github.com/mattiasvillani/mattiasvillani/raw/main/GreyBrain.jpg" alt="brain image">
 
-### Welcome!
-
 I am Professor of Statistics at [Stockholm University](https://www.su.se).\
 I teach and do research in Bayesian statistics, often with a focus on prediction and computational aspects.\
 I keep all my teaching material open, including source files, and I have repos for all my courses (older courses at [STIMA@LiU](https://github.com/STIMALiU/)).\
