@@ -1,5 +1,5 @@
 
-<img src="https://github.com/mattiasvillani/mattiasvillani/raw/main/GreyBrain.jpg" alt="brain image">
+<img src="https://github.com/mattiasvillani/mattiasvillani/raw/main/mixture_mosaic4_smaller.png" alt="brain image">
 
 ### [Better Git It in Your Soul](https://www.youtube.com/watch?v=J0FcKOfRgvE&ab_channel=JazzTuna)
 
