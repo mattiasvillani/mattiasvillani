@@ -1,7 +1,7 @@
 
 <img src="https://github.com/mattiasvillani/mattiasvillani/raw/main/mixture_mosaic4_smaller.png" alt="brain image">
 
-### [Better Git It in Your Soul](https://www.youtube.com/watch?v=J0FcKOfRgvE&ab_channel=JazzTuna)
+### [Better Git It in Your Soul](https://www.youtube.com/watch?v=yzlWvNbxrho)
 
 I am Professor of Statistics at [Stockholm University](https://www.su.se).\
 I teach and do research in Bayesian statistics, often with a focus on prediction and computational aspects.\
